@@ -24,4 +24,6 @@ Now it is time to do the hardest part. Once we complete this, it is smooth saili
 You have now converted from Word to Markdown! Only one more step to go!
 
 -------
+[Next Step](Modifying-markdown-file.md)
+
 Back to [main page](index.md)

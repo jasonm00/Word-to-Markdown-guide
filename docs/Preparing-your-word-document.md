@@ -32,4 +32,6 @@ Now that you have everything that you need installed, you can now get to work on
 You are now done with preparing your Word Document and may now proceed to the next steps!
 
 -------
+[Next Step](Converting-files.md)
+
 Back to [main page](index.md)

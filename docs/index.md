@@ -24,3 +24,4 @@ I've written this How-To because the current Pandoc documentation isn't so user-
 * [PART 1: How to Download Pandoc](How-to-download-Pandoc.md)
 * [PART 2: How to Prepare Your Word Document](Preparing-your-word-document.md)
 * [PART 3: How to do the Conversion](Converting-files.md)
+* [PART 4: How to Set Up Your Markdown Files](Modifying-markdown-file.md)

@@ -28,4 +28,6 @@ The critical necessity for converting files with Pandoc is, of course, having Pa
 Once you have finished following the installation instructions on the Pandoc website, you are done downloading Pandoc!
 
 -------
+[Next Step](Preparing-your-word-document.md)
+
 Back to [main page](index.md)
