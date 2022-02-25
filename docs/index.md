@@ -6,7 +6,7 @@ I've written this How-To because the current Pandoc documentation isn't so user-
 
 ## Tools
 
-* Internet browser (Chrome, Firefox, Safari, etc. )
+* Internet browser (Chrome, Firefox, Safari, etc.)
 * Office 365 (for Word)
 * Visual Studio Code (VS Code)
 * Command-Line interface
